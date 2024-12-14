@@ -107,3 +107,17 @@ section .container {
 .main-state {
   margin-left: -1rem;
 }
+
+@media (max-width: 991.98px) {
+  section .container {
+    width: 90%;
+  }
+  header {
+    width: 90%;
+  }
+  .navbar .container-fluid {
+    width: 50%;
+    gap: 1rem;
+    justify-content: center;
+  }
+}
