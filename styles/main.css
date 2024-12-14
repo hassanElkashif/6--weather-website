@@ -116,7 +116,7 @@ section .container {
     width: 90%;
   }
   .navbar .container-fluid {
-    width: 50%;
+    width: 75%;
     gap: 1rem;
     justify-content: center;
   }
